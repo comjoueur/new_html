@@ -1,0 +1,74 @@
+.format_body{
+	background-image:url("azules.png");
+	height:1000;
+}
+.format_head{
+	color:white;
+	font-size:50px;
+	background-image:url("back_ground_color_rojo.jpg");
+	text-align:center
+}
+.format_nav{
+	color:White;
+	background-color:#28282c;
+}
+.a_style {
+	text-decoration: none;
+	color:white;
+}
+.section_format{
+	color:white;
+	background-color:#28282c;
+}
+.aside_format{
+	color:white;
+	background-color:#28282c;
+}
+section {
+	float:left;
+	width: 260px;
+	margin: 0;
+	height:320;
+}
+aside {
+	margin-left: 280px;
+	height:320;
+	color:white;
+}
+footer {
+	height:150;
+	color:white;
+	background-color:#28282c;
+}
+img.zoom{
+	-webkit-transition: all .2s ease-in-out;
+	-moz-transition:all .2s ease-in-out;
+	-o-transition:all .2s ease-in-out;
+	-ms-transition: all .2s ease-in-out;
+}
+.transition{
+	-webkit-transform: scale(1.2);
+	-moz-transform: scale(1.2);
+	-o-transform: scale(1.2);
+	transform scale(1.2);
+}
+#imagen_perfil{
+	margin-left:15px;
+	width:227px;
+	height:222px;
+}
+#titulo_head{
+	text-align:center;
+	font-size:30px;
+}
+#sangria_section{
+	margin-left:35px;
+}
+#sangria_column2{
+	margin-right:30px;
+}
+#image_map{
+	margin-left:300px;
+	width:400;
+	height:150;
+}
